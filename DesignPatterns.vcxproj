@@ -157,6 +157,7 @@
     <ClCompile Include="DesignPatterns.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="UML类图简介.md" />
     <Content Include="设计原则.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
