@@ -154,17 +154,38 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Creational pattern\AbstractFactory\AbstractFactory.cpp" />
+    <ClCompile Include="Creational pattern\AbstractFactory\AbstractFactoryExample.cpp" />
     <ClCompile Include="Creational pattern\Bulider\Builder.cpp" />
     <ClCompile Include="Creational pattern\Bulider\BuilderExample.cpp" />
+    <ClCompile Include="Creational pattern\FactoryMethod\FactoryMethod.cpp" />
+    <ClCompile Include="Creational pattern\FactoryMethod\FactoryMethodExample.cpp" />
     <ClCompile Include="Creational pattern\Prototype\Prototype.cpp" />
     <ClCompile Include="Creational pattern\Prototype\PrototypeExample.cpp" />
+    <ClCompile Include="Creational pattern\Singleton\Singleton.cpp" />
     <ClCompile Include="DesignPatterns.cpp" />
+    <ClCompile Include="Structural Pattern\Adapter\Adapter.cpp" />
+    <ClCompile Include="Structural Pattern\Adapter\AdapterExample.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Creational pattern\AbstractFactory\AbstractFactory.md" />
     <Content Include="Creational pattern\Bulider\Builder.md" />
+    <Content Include="Creational pattern\CreationalPatterm.md" />
+    <Content Include="Creational pattern\FactoryMethod\FactoryMethod.md" />
     <Content Include="Creational pattern\Prototype\Prototype.md" />
+    <Content Include="Creational pattern\Singleton\Singleton.md" />
+    <Content Include="README.md" />
+    <Content Include="Structural Pattern\Adapter\Adapter.md" />
     <Content Include="UML类图简介.md" />
     <Content Include="设计原则.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Structural Pattern\Bridge\" />
+    <Folder Include="Structural Pattern\Composite\" />
+    <Folder Include="Structural Pattern\Decorator\" />
+    <Folder Include="Structural Pattern\Facade\" />
+    <Folder Include="Structural Pattern\Flyweight\" />
+    <Folder Include="Structural Pattern\Proxy\" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
