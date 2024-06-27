@@ -914,6 +914,7 @@
     <Content Include="Structural Pattern\Facade\Facade.md" />
     <Content Include="Structural Pattern\Flyweight\Flyweight.md" />
     <Content Include="Structural Pattern\Proxy\Proxy.md" />
+    <Content Include="Structural Pattern\StructuralPattern.md" />
     <Content Include="UML类图简介.md" />
     <Content Include="设计原则.md" />
   </ItemGroup>
