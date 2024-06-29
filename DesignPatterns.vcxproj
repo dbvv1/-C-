@@ -2435,7 +2435,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Behavioral Pattern\BehavioralPattern,.md" />
-    <Content Include="Behavioral Pattern\Chain of Responsibility\Chain of Responsibility.md" />
+    <Content Include="Behavioral Pattern\Chain of Responsibility\ChainOfResponsibility.md" />
     <Content Include="Behavioral Pattern\Command\Command.md" />
     <Content Include="Behavioral Pattern\Interpreter\Interpreter.md" />
     <Content Include="Behavioral Pattern\Iterator\Iterator.md" />
